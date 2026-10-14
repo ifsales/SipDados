@@ -1,22 +1,20 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.1.0.0",
-    "data":  "2026-10-13",
-    "titulo":  "SIP Dados 1.1.0.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.1.0.0/SIPDados_Setup_1.1.0.0.exe",
-    "arquivo":  "SIPDados_Setup_1.1.0.0.exe",
-    "sha256":  "73fca8882f8f358c0c01a7a66b3862f7a433989765c8c3346084d4f28e96d8f4",
+    "versao":  "1.2.0.0",
+    "data":  "2026-10-14",
+    "titulo":  "SIP Dados 1.2.0.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.2.0.0/SIPDados_Setup_1.2.0.0.exe",
+    "arquivo":  "SIPDados_Setup_1.2.0.0.exe",
+    "sha256":  "43509bd5c133e48a0627dbe2568d12cf2b2bc3db2d66e8c27c3a1f68b77be9e7",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.1.0.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.1.0.0/SIPDados_Portable_1.1.0.0.zip",
-                     "sha256":  "2ca1fc499d8c9abe435d0ca085e7dee2d9100605f04105a326b05cf3b030e85b"
+                     "arquivo":  "SIPDados_Portable_1.2.0.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.2.0.0/SIPDados_Portable_1.2.0.0.zip",
+                     "sha256":  "5ae401424f4df393d871e792ecaefd23973a07d2ba1d5a9d91e4ebcc5a478cf2"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Backup e restore das bases pelo próprio programa (Ctrl+B, Ctrl+R)",
-                      "Backup compactado mais rápido",
-                      "Acesso sempre com o usuário do SIP (FSCSIP)",
-                      "Atualização automática",
-                      "Versão no cabeçalho e no título da janela"
+                      "Restore mais rápido: escolha do tamanho de página",
+                      "Tempo de cada etapa no backup e no restore",
+                      "Janela de progresso na barra de tarefas"
                   ]
 }
