@@ -1,21 +1,22 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.2.2.0",
-    "data":  "2026-10-14",
-    "titulo":  "SIP Dados 1.2.2.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.2.2.0/SIPDados_Setup_1.2.2.0.exe",
-    "arquivo":  "SIPDados_Setup_1.2.2.0.exe",
-    "sha256":  "da617e19e6a0228470b7b16e3a384b34ba35130de4578021d536169dbd1ab4e6",
+    "versao":  "1.3.0.0",
+    "data":  "2026-10-18",
+    "titulo":  "SIP Dados 1.3.0.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.3.0.0/SIPDados_Setup_1.3.0.0.exe",
+    "arquivo":  "SIPDados_Setup_1.3.0.0.exe",
+    "sha256":  "3c32c455cc48ec3f61288be837f3c1d7ea57c3c042c31d71f81a4103d142044c",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.2.2.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.2.2.0/SIPDados_Portable_1.2.2.0.zip",
-                     "sha256":  "dbe5115495b14b96533f13833c6b10389dacf8b97a8723cda46a28228ccf45d9"
+                     "arquivo":  "SIPDados_Portable_1.3.0.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.3.0.0/SIPDados_Portable_1.3.0.0.zip",
+                     "sha256":  "b0ff40c9438d6fec50638e009579e53c51b77eec91d6f6b0c1c89d2a9b655d7c"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Ícone do SIP Dados na barra de tarefas",
-                      "Restore mais rápido: escolha do tamanho de página",
-                      "Tempo de cada etapa no backup e no restore",
-                      "Janela de progresso com botão próprio na barra de tarefas"
+                      "SipWeb: base do JBoss / WildFly",
+                      "Vários serviços: wildfly_PM, wildfly_CM…",
+                      "Parar, iniciar e reiniciar o serviço",
+                      "Firebird certo para cada servidor",
+                      "Marcação discreta na lista de bases"
                   ]
 }
