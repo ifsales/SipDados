@@ -1,22 +1,21 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.3.0.0",
+    "versao":  "1.4.0.0",
     "data":  "2026-10-18",
-    "titulo":  "SIP Dados 1.3.0.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.3.0.0/SIPDados_Setup_1.3.0.0.exe",
-    "arquivo":  "SIPDados_Setup_1.3.0.0.exe",
-    "sha256":  "3c32c455cc48ec3f61288be837f3c1d7ea57c3c042c31d71f81a4103d142044c",
+    "titulo":  "SIP Dados 1.4.0.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.4.0.0/SIPDados_Setup_1.4.0.0.exe",
+    "arquivo":  "SIPDados_Setup_1.4.0.0.exe",
+    "sha256":  "0bf12dea66e088c0470914302b89dbdf0b2cb75cf6c3b5fbe3a900c57a10cbaf",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.3.0.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.3.0.0/SIPDados_Portable_1.3.0.0.zip",
-                     "sha256":  "b0ff40c9438d6fec50638e009579e53c51b77eec91d6f6b0c1c89d2a9b655d7c"
+                     "arquivo":  "SIPDados_Portable_1.4.0.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.4.0.0/SIPDados_Portable_1.4.0.0.zip",
+                     "sha256":  "b05497d5ee08cb7f99880d1ed0dce76ab954f4016d7d41d88791c9c8ca344fa3"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "SipWeb: base do JBoss / WildFly",
-                      "Vários serviços: wildfly_PM, wildfly_CM…",
-                      "Parar, iniciar e reiniciar o serviço",
-                      "Firebird certo para cada servidor",
-                      "Marcação discreta na lista de bases"
+                      "Atualizar SIPDEF das bases",
+                      "Em segundo plano, sem travar a tela",
+                      "Erros sem perder as outras bases",
+                      "Link para o instalador do JBoss / WildFly"
                   ]
 }
