@@ -1,20 +1,18 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.4.1.0",
+    "versao":  "1.4.2.0",
     "data":  "2026-10-19",
-    "titulo":  "SIP Dados 1.4.1.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.4.1.0/SIPDados_Setup_1.4.1.0.exe",
-    "arquivo":  "SIPDados_Setup_1.4.1.0.exe",
-    "sha256":  "2180e0880e869adb3b09490dbb04dcd698284314e6c0d6801181c76e8ca5a23c",
+    "titulo":  "SIP Dados 1.4.2.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.4.2.0/SIPDados_Setup_1.4.2.0.exe",
+    "arquivo":  "SIPDados_Setup_1.4.2.0.exe",
+    "sha256":  "537aafea2a67d55d57a70497dafd9693a8ef73ac80e1606024d0e8e03e06deb6",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.4.1.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.4.1.0/SIPDados_Portable_1.4.1.0.zip",
-                     "sha256":  "ecfd3442ad7abb1e5bcedd531275bc435b65298bf0d41101817303c0915f8b1c"
+                     "arquivo":  "SIPDados_Portable_1.4.2.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.4.2.0/SIPDados_Portable_1.4.2.0.zip",
+                     "sha256":  "584949006ef21e1ddda2d1aad82ff8f490f285f0e9b52eb0c4031284dbbf24b9"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "SipWeb: trocar o banco em todos os servidores",
-                      "SipWeb: pasta de cada servidor",
-                      "Caminho do banco até o .fdb"
+                      "Versões do SIP 7 e do SIPDEF (normal e beta)"
                   ]
 }
