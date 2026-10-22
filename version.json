@@ -1,19 +1,18 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.5.0.0",
+    "versao":  "1.5.1.0",
     "data":  "2026-10-22",
-    "titulo":  "SIP Dados 1.5.0.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.5.0.0/SIPDados_Setup_1.5.0.0.exe",
-    "arquivo":  "SIPDados_Setup_1.5.0.0.exe",
-    "sha256":  "9ad87e1cc4c283a9a06ab867a3bcf8a9b5a046cd80b0d598a410f6f83bc836fa",
+    "titulo":  "SIP Dados 1.5.1.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.5.1.0/SIPDados_Setup_1.5.1.0.exe",
+    "arquivo":  "SIPDados_Setup_1.5.1.0.exe",
+    "sha256":  "b9facf43e2f5f41407fadfa271febb8d179474e167b9f4785a072c3693b187e6",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.5.0.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.5.0.0/SIPDados_Portable_1.5.0.0.zip",
-                     "sha256":  "5e913008a8c09f59410ca62c1491d99f7894d42295187b9f63cad74dcfc0a9ec"
+                     "arquivo":  "SIPDados_Portable_1.5.1.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.5.1.0/SIPDados_Portable_1.5.1.0.zip",
+                     "sha256":  "49c8b4bd6804e18d2f5b58e1b6eff4c314a7c496bbab20dd878ec2b9bf00b952"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Baixar e restaurar",
-                      "Servidor pela versão do backup"
+                      "Ícone novo"
                   ]
 }
