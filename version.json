@@ -1,18 +1,18 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.6.1.0",
+    "versao":  "1.6.2.0",
     "data":  "2026-11-04",
-    "titulo":  "SIP Dados 1.6.1.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.1.0/SIPDados_Setup_1.6.1.0.exe",
-    "arquivo":  "SIPDados_Setup_1.6.1.0.exe",
-    "sha256":  "eb808abff1e73e3f0e49bf979985b3ad9bdc9a0ccb7801363876dc08871681c7",
+    "titulo":  "SIP Dados 1.6.2.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.2.0/SIPDados_Setup_1.6.2.0.exe",
+    "arquivo":  "SIPDados_Setup_1.6.2.0.exe",
+    "sha256":  "18ec1093276d249fb297d438ae8bf874855edb94b3b5496bec3a9106ea2ee4f3",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.6.1.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.1.0/SIPDados_Portable_1.6.1.0.zip",
-                     "sha256":  "3121a5065d529a510996347159981ea61d42173076c094f0b66090f6f69c2a46"
+                     "arquivo":  "SIPDados_Portable_1.6.2.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.2.0/SIPDados_Portable_1.6.2.0.zip",
+                     "sha256":  "0ff8546a44e76e7644afa77ae4d281ec56878ac03c7a1a2c115cb405f3231aa3"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Abrir a base no IBExpert"
+                      "\"Abrir no IBExpert\" com a User Database"
                   ]
 }
