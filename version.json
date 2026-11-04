@@ -1,18 +1,18 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.6.2.0",
+    "versao":  "1.6.3.0",
     "data":  "2026-11-04",
-    "titulo":  "SIP Dados 1.6.2.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.2.0/SIPDados_Setup_1.6.2.0.exe",
-    "arquivo":  "SIPDados_Setup_1.6.2.0.exe",
-    "sha256":  "18ec1093276d249fb297d438ae8bf874855edb94b3b5496bec3a9106ea2ee4f3",
+    "titulo":  "SIP Dados 1.6.3.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.3.0/SIPDados_Setup_1.6.3.0.exe",
+    "arquivo":  "SIPDados_Setup_1.6.3.0.exe",
+    "sha256":  "215031afe09b8116dc2b5427d86ad06848714835b240416e474daea2c697c9b0",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.6.2.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.2.0/SIPDados_Portable_1.6.2.0.zip",
-                     "sha256":  "0ff8546a44e76e7644afa77ae4d281ec56878ac03c7a1a2c115cb405f3231aa3"
+                     "arquivo":  "SIPDados_Portable_1.6.3.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.3.0/SIPDados_Portable_1.6.3.0.zip",
+                     "sha256":  "477dd37d1433dda41e10a9140cdf1650af79c72ca5513c27f4758763bdf5fa48"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "\"Abrir no IBExpert\" com a User Database"
+                      "\"Abrir no IBExpert\" com bases Firebird 5: erro do plugin ChaCha64"
                   ]
 }
