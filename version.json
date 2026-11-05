@@ -1,18 +1,20 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.6.3.0",
-    "data":  "2026-11-04",
-    "titulo":  "SIP Dados 1.6.3.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.3.0/SIPDados_Setup_1.6.3.0.exe",
-    "arquivo":  "SIPDados_Setup_1.6.3.0.exe",
-    "sha256":  "215031afe09b8116dc2b5427d86ad06848714835b240416e474daea2c697c9b0",
+    "versao":  "1.6.5.0",
+    "data":  "2026-11-05",
+    "titulo":  "SIP Dados 1.6.5.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.5.0/SIPDados_Setup_1.6.5.0.exe",
+    "arquivo":  "SIPDados_Setup_1.6.5.0.exe",
+    "sha256":  "14752550e5ce77ceac9d59b4d1101b9f1f98df7db91f9d772ddecab45969d30c",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.6.3.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.3.0/SIPDados_Portable_1.6.3.0.zip",
-                     "sha256":  "477dd37d1433dda41e10a9140cdf1650af79c72ca5513c27f4758763bdf5fa48"
+                     "arquivo":  "SIPDados_Portable_1.6.5.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.5.0/SIPDados_Portable_1.6.5.0.zip",
+                     "sha256":  "0a026cf30e4ca92eaa0df8afa2507376cba4660232a0eb28daf25e83f9a29e39"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "\"Abrir no IBExpert\" com bases Firebird 5: erro do plugin ChaCha64"
+                      "Restore mais rápido (service_mgr)",
+                      "Converter base do Firebird 2.5 para o Firebird 5",
+                      "Log do backup/restore pode ser lido enquanto o trabalho roda (1.6.4, não publicada)"
                   ]
 }
