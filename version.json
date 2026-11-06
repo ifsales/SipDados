@@ -1,20 +1,18 @@
 {
     "produto":  "SIP Dados",
-    "versao":  "1.6.5.0",
-    "data":  "2026-11-05",
-    "titulo":  "SIP Dados 1.6.5.0",
-    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.5.0/SIPDados_Setup_1.6.5.0.exe",
-    "arquivo":  "SIPDados_Setup_1.6.5.0.exe",
-    "sha256":  "14752550e5ce77ceac9d59b4d1101b9f1f98df7db91f9d772ddecab45969d30c",
+    "versao":  "1.6.6.0",
+    "data":  "2026-11-06",
+    "titulo":  "SIP Dados 1.6.6.0",
+    "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.6.0/SIPDados_Setup_1.6.6.0.exe",
+    "arquivo":  "SIPDados_Setup_1.6.6.0.exe",
+    "sha256":  "144af01b60cdf64fda4db149f7b4515b2695c5263149541e1e3ba0a93a3b6c79",
     "portable":  {
-                     "arquivo":  "SIPDados_Portable_1.6.5.0.zip",
-                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.5.0/SIPDados_Portable_1.6.5.0.zip",
-                     "sha256":  "0a026cf30e4ca92eaa0df8afa2507376cba4660232a0eb28daf25e83f9a29e39"
+                     "arquivo":  "SIPDados_Portable_1.6.6.0.zip",
+                     "download":  "https://github.com/ifsales/SipDados/releases/download/v1.6.6.0/SIPDados_Portable_1.6.6.0.zip",
+                     "sha256":  "82ec2bf314cd0f8de1e19071f0872a666fd53e64e21007c4071d3f410ecc6b39"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Restore mais rápido (service_mgr)",
-                      "Converter base do Firebird 2.5 para o Firebird 5",
-                      "Log do backup/restore pode ser lido enquanto o trabalho roda (1.6.4, não publicada)"
+                      "Backup com SIP no nome"
                   ]
 }
